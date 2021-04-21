@@ -6,7 +6,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 ## common_panel Screenshots:
 
 
-![gif](./image/gf.png)
+![gif](./image/gf.gif)
 
 
 ![common_pannel](./image/1618988553239.png)
