@@ -1,0 +1,22 @@
+{
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "面板",
+          "pathName": "pages/home_center/common_panel/index",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
